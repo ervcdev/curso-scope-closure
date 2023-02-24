@@ -11,19 +11,19 @@ var secondName = 'Ana'; //reasignando
 console.log(secondName);
 
 //let 
-let fruit = 'Apple'; //declarar y asignar
+//let fruit = 'Apple'; //declarar y asignar
 console.log(fuit);
-fruit = 'kiwi'; //reasignar
+fruit = 'kiwi'; //reasignar, si se puede reasignar
 console.log(fruit);
 
-let fruit = 'Banana';
+let fruit = 'Banana'; // no se puede redeclarar
 console.log(fruit);
 
 //const 
 const animal = 'Dog'; //declarar y asignar
 animal = 'cat';
 
-const animal = 'snake';
+//const animal = 'snake'; //no se puede redeclarar, tampoco reasignar
 console.log(animal);
 
 
